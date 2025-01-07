@@ -1,0 +1,20 @@
+div {
+    background-color: rgb(64, 174, 204);
+    
+}
+#redDiv {
+    color: red;
+}
+
+.headings {
+    font-family: cursive;
+    font-weight: 1000; 
+    color: green;
+}
+li{background-color: brown;}
+
+body{
+    margin: 00;
+    padding: 250;
+}
+/*comment one line */
